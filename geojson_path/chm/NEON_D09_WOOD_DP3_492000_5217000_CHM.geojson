@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32614" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 493000.0, 5217000.0 ], [ 493000.0, 5218000.0 ], [ 492000.0, 5218000.0 ], [ 492000.0, 5217000.0 ], [ 493000.0, 5217000.0 ] ] ] } }
+]
+}
